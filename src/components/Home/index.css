@@ -1,0 +1,26 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  font-size: 45px;
+  color: #334155;
+}
+.para {
+  font-size: 25px;
+  color: #7b8794;
+}
+.bt {
+  color: #ffffff;
+  border: none;
+  background-color: #2563eb;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.meetup-pic {
+  height: 300px;
+  width: 800px;
+}

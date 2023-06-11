@@ -1,0 +1,19 @@
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+}
+.not-pic {
+  height: 300px;
+  width: 300px;
+}
+.not-head {
+  font-size: 26px;
+  color: #475569;
+}
+.not-para {
+  font-size: 19px;
+  color: #7b8794;
+}
